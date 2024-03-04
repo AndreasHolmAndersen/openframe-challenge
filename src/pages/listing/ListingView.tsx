@@ -6,6 +6,7 @@ import Breadcrumb from "../../components/Breadcrumb";
 import { AppRoutes } from "../../router/AppRouter";
 import LoadingSpinner from "../../components/LoadingSpinner";
 import ErrorView from "../../components/ErrorView";
+import { ArrowLeftCircleIcon, ArrowLeftIcon } from "@heroicons/react/20/solid";
 
 const ListingView: FC = () => {
   //Hooks
@@ -42,24 +43,33 @@ const ListingView: FC = () => {
           <ErrorView title="Error" description="Failed to fetch listing" />
         )}
         {fetchedListing.data && fetchedListing.isFetched && listing && (
-          <div className="flex flex-col p-4 mb-4 border border-gray-300 rounded-md shadow-md w-fit bg-slate-50">
-            <p className="text-lg font-semibold text-gray-600">
-              {listing.brand} {listing.name}
-            </p>
-            <p className="text-gray-600">Year: {listing.year}</p>
-            <p className="text-gray-600">
-              Kilometers Driven: {listing.kilometersDriven}
-            </p>
-            <p className="text-gray-600">Brand: {listing.brand}</p>
-            <p className="text-gray-600">Model: {listing.name}</p>
-            <p className="text-xl font-semibold text-green-600">
-              DKK {listing.price}
-            </p>
-            <img
-              src={listing.imageUrl}
-              className="mt-4 rounded-md w-[500px] h-fit"
-              alt="Car Image"
-            />
+          <div className="flex flex-col">
+            <div className="flex flex-col p-4 mb-4 border border-gray-300 rounded-md shadow-md w-fit bg-slate-50">
+              <p className="text-lg font-semibold text-gray-600">
+                {listing.brand} {listing.name}
+              </p>
+              <p className="text-gray-600">Year: {listing.year}</p>
+              <p className="text-gray-600">
+                Kilometers Driven: {listing.kilometersDriven}
+              </p>
+              <p className="text-gray-600">Brand: {listing.brand}</p>
+              <p className="text-gray-600">Model: {listing.name}</p>
+              <p className="text-xl font-semibold text-green-600">
+                DKK {listing.price}
+              </p>
+              <img
+                src={listing.imageUrl}
+                className="mt-4 rounded-md w-[500px] h-fit"
+                alt="Car Image"
+              />
+            </div>
+            <a
+              href={AppRoutes.listings}
+              className="flex items-center gap-2 text-xl font-semibold text-blue-600"
+            >
+              <ArrowLeftIcon className="w-6 h-6" />
+              Go back
+            </a>
           </div>
         )}
       </div>
