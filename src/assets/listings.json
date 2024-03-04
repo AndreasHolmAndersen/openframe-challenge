@@ -1,0 +1,2072 @@
+[
+    {
+        "id": "d9366b39-3129-4175-8a0d-672cfde5d15e",
+        "brand": "Toyota",
+        "year": 2012,
+        "name": "Camry",
+        "price": 14000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f9e220a6-5994-481b-bc88-c2281c53e7ac",
+        "brand": "Honda",
+        "year": 2016,
+        "name": "Accord",
+        "price": 18000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "62728b5a-babf-4f9f-b882-178cc3a129bf",
+        "brand": "Volvo",
+        "year": 2019,
+        "name": "XC90",
+        "price": 35000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d06c0651-40a0-48b2-85bf-85f2bcb20633",
+        "brand": "Citroën",
+        "year": 2015,
+        "name": "C3",
+        "price": 16000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "29b7b19d-568a-4c08-80d7-4ed39a71b9ab",
+        "brand": "Renault",
+        "year": 2017,
+        "name": "Clio",
+        "price": 19000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c5008c71-fb8f-446b-aa4f-c8ab2a4a7c22",
+        "brand": "Peugeot",
+        "year": 2014,
+        "name": "208",
+        "price": 15000,
+        "kilometersDriven": 75000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d3b4b153-08ff-4d47-865d-10f28955d343",
+        "brand": "BMW",
+        "year": 2018,
+        "name": "X5",
+        "price": 40000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6a3c2aa5-b1a4-4c65-8d92-62131a73b09b",
+        "brand": "SEAT",
+        "year": 2013,
+        "name": "Ibiza",
+        "price": 12000,
+        "kilometersDriven": 85000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b4f5ab6b-0a90-4d5c-813a-28d71cb2e9de",
+        "brand": "FIAT",
+        "year": 2011,
+        "name": "Punto",
+        "price": 10000,
+        "kilometersDriven": 90000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a5541452-776e-4e6b-b1fc-7c0f3bf1a24a",
+        "brand": "Dacia",
+        "year": 2010,
+        "name": "Logan",
+        "price": 8000,
+        "kilometersDriven": 100000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c4781246-9c58-4d7b-bd5e-4b8c3be73847",
+        "brand": "Skoda",
+        "year": 2016,
+        "name": "Superb",
+        "price": 20000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "21f72dcb-8ef7-4c79-932f-9883ed527d1e",
+        "brand": "Volkswagen",
+        "year": 2014,
+        "name": "Tiguan",
+        "price": 22000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9632f38e-3c02-4b6f-8413-775da5d0ef92",
+        "brand": "Toyota",
+        "year": 2015,
+        "name": "Rav4",
+        "price": 19000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f1b1648e-52d2-4682-b352-fa05b59b7c9d",
+        "brand": "Honda",
+        "year": 2018,
+        "name": "Fit",
+        "price": 17000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "65d23ae2-0bb7-4c14-87bb-6d92e64e88aa",
+        "brand": "Volvo",
+        "year": 2016,
+        "name": "S60",
+        "price": 23000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9f3e93d4-026a-4517-8c6e-8cb9e6f34eb2",
+        "brand": "Citroën",
+        "year": 2013,
+        "name": "C4",
+        "price": 14000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "20b44719-4521-405b-a294-d95f7897fc62",
+        "brand": "Renault",
+        "year": 2017,
+        "name": "Captur",
+        "price": 20000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d33b787e-fc0d-49a1-8aa0-17d68a9cf5dc",
+        "brand": "Peugeot",
+        "year": 2014,
+        "name": "308",
+        "price": 16000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "cf7c381d-2fb3-4e24-8a5b-50ab2976bf71",
+        "brand": "BMW",
+        "year": 2019,
+        "name": "X3",
+        "price": 38000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3a1f5508-f5b0-46f3-ba6e-b73b1cb00b0b",
+        "brand": "SEAT",
+        "year": 2014,
+        "name": "Arona",
+        "price": 15000,
+        "kilometersDriven": 75000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e80428f0-b8c3-4748-9ab9-ef473dbba79f",
+        "brand": "FIAT",
+        "year": 2012,
+        "name": "Bravo",
+        "price": 12000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "be69516b-ebcf-4c84-bb7b-36a1de1e3064",
+        "brand": "Dacia",
+        "year": 2011,
+        "name": "Duster",
+        "price": 11000,
+        "kilometersDriven": 85000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d663b021-f493-4f46-b97f-5a101a171d45",
+        "brand": "Skoda",
+        "year": 2013,
+        "name": "Yeti",
+        "price": 17000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "7f1e0ba0-29e5-4f57-8585-8a51c344bdf4",
+        "brand": "Volkswagen",
+        "year": 2015,
+        "name": "Passat",
+        "price": 21000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "85b18f42-0a9d-41ec-916a-f5db384fb409",
+        "brand": "Toyota",
+        "year": 2014,
+        "name": "Highlander",
+        "price": 24000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "dc1668ec-5684-424f-a1ed-9db2bc7a1a41",
+        "brand": "Honda",
+        "year": 2017,
+        "name": "CR-V",
+        "price": 22000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "4a372a09-296a-4a70-9f8e-e97ee35455e1",
+        "brand": "Volvo",
+        "year": 2018,
+        "name": "V60",
+        "price": 27000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "24cb27d8-9c2f-4b51-9c05-65584815f79a",
+        "brand": "Citroën",
+        "year": 2016,
+        "name": "C5 Aircross",
+        "price": 18000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b9d36c8b-c768-431e-9484-8999a3208836",
+        "brand": "Renault",
+        "year": 2018,
+        "name": "Kadjar",
+        "price": 24000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "39d1ab57-b8c4-4b85-a5b3-92b91a953f8d",
+        "brand": "Peugeot",
+        "year": 2015,
+        "name": "2008",
+        "price": 17000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3c4c8b7b-52ac-4e13-8e41-0900a82c2ae4",
+        "brand": "BMW",
+        "year": 2020,
+        "name": "X7",
+        "price": 50000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "7db2e0b7-57c4-44f6-a0f5-35cc742b48db",
+        "brand": "SEAT",
+        "year": 2015,
+        "name": "Ateca",
+        "price": 20000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9e535ae0-b228-4fa0-8a15-8b68efdf1ef1",
+        "brand": "FIAT",
+        "year": 2013,
+        "name": "500L",
+        "price": 14000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9fd49d7f-d11e-4d9b-8564-08ac0a0da79a",
+        "brand": "Dacia",
+        "year": 2012,
+        "name": "Lodgy",
+        "price": 13000,
+        "kilometersDriven": 75000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b54ed05f-bacd-42f0-8b43-d36b7f717ae6",
+        "brand": "Skoda",
+        "year": 2014,
+        "name": "Fabia",
+        "price": 16000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9c8aa857-11aa-4eb2-bd3e-bf35e3364b89",
+        "brand": "Volkswagen",
+        "year": 2016,
+        "name": "Jetta",
+        "price": 19000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "1dd25dc5-02c0-44ad-813d-5bfefdd1b20e",
+        "brand": "Toyota",
+        "year": 2018,
+        "name": "Tacoma",
+        "price": 25000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "71f09b4b-9dd4-47b2-bc36-e90b332e52cf",
+        "brand": "Honda",
+        "year": 2019,
+        "name": "Pilot",
+        "price": 30000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2b20b6e0-4f86-4609-b2e0-fb97fd2e68ed",
+        "brand": "Volvo",
+        "year": 2017,
+        "name": "XC40",
+        "price": 32000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2c5e4dc1-f421-4958-8b16-5e2edf3a8684",
+        "brand": "Citroën",
+        "year": 2018,
+        "name": "C3 Aircross",
+        "price": 22000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "0d51cbe3-d0d2-4dc7-a292-002fbf7226d2",
+        "brand": "Renault",
+        "year": 2019,
+        "name": "Zoe",
+        "price": 25000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6313b5d8-d1ac-4d7d-bb16-98f29a5e582a",
+        "brand": "Peugeot",
+        "year": 2016,
+        "name": "3008",
+        "price": 23000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "80eaf931-4d09-4f49-a9d8-77f65697a54f",
+        "brand": "BMW",
+        "year": 2021,
+        "name": "X6",
+        "price": 55000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3f25dfae-5d6f-44d7-9a0a-8f529d725d85",
+        "brand": "SEAT",
+        "year": 2016,
+        "name": "Tarraco",
+        "price": 28000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6d5488c8-77f7-4ae0-967b-d22dfb5017c6",
+        "brand": "FIAT",
+        "year": 2014,
+        "name": "Tipo",
+        "price": 18000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c251d93b-b02d-4c09-8857-474d5d84e504",
+        "brand": "Dacia",
+        "year": 2013,
+        "name": "Dokker",
+        "price": 14000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e3c7aeeb-8e45-479b-8c11-42de5e1e0327",
+        "brand": "Skoda",
+        "year": 2015,
+        "name": "Kodiaq",
+        "price": 25000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d31adbb5-d855-446d-8810-5f5fdac2d81c",
+        "brand": "Volkswagen",
+        "year": 2017,
+        "name": "Arteon",
+        "price": 35000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a4cf3cf9-37ec-495f-8bdf-05e1ac7cf373",
+        "brand": "Toyota",
+        "year": 2019,
+        "name": "Land Cruiser",
+        "price": 60000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "5fc08967-5c76-4be1-8ef9-49a3cd38289f",
+        "brand": "Honda",
+        "year": 2020,
+        "name": "Insight",
+        "price": 25000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3de56a9c-4b7d-49a4-8317-c1c8ed69bade",
+        "brand": "Volvo",
+        "year": 2018,
+        "name": "XC60",
+        "price": 40000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "448b44c1-07c2-4f8a-a94a-cd4892d38f1e",
+        "brand": "Citroën",
+        "year": 2017,
+        "name": "C4 Cactus",
+        "price": 21000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "1a27e62a-63df-45da-a10c-46be43b68d4d",
+        "brand": "Renault",
+        "year": 2018,
+        "name": "Talisman",
+        "price": 28000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "44e1d8d3-39da-484d-8563-6482a3fbc409",
+        "brand": "Peugeot",
+        "year": 2017,
+        "name": "5008",
+        "price": 27000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c5c33d5b-86d3-4fe7-a1c7-26c070ed4e18",
+        "brand": "BMW",
+        "year": 2022,
+        "name": "X1",
+        "price": 45000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a112b374-d58f-4e96-b7c0-2cbe4bfec7f4",
+        "brand": "SEAT",
+        "year": 2017,
+        "name": "Leon",
+        "price": 22000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "477a0010-b6ee-4f95-a37a-63f384c3012d",
+        "brand": "FIAT",
+        "year": 2015,
+        "name": "Panda",
+        "price": 16000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a430179f-2a88-492d-bcc9-06ad1f8dd6a5",
+        "brand": "Dacia",
+        "year": 2014,
+        "name": "Dokker Van",
+        "price": 12000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b6b0b4c9-2e46-4b61-ae1b-57ebe077d15b",
+        "brand": "Skoda",
+        "year": 2016,
+        "name": "Rapid",
+        "price": 19000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "fc6f45a0-fd28-4fd5-b063-556801c09d10",
+        "brand": "Volkswagen",
+        "year": 2018,
+        "name": "Atlas",
+        "price": 35000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "7f12cd06-9b92-4a18-b076-1bcb8c9f87c4",
+        "brand": "Toyota",
+        "year": 2020,
+        "name": "Sienna",
+        "price": 40000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c4ab4e15-9c65-4f7e-a7b1-0abda232ef4e",
+        "brand": "Honda",
+        "year": 2021,
+        "name": "Odyssey",
+        "price": 45000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "178c5252-12a3-4885-82c7-b4431c96321d",
+        "brand": "Volvo",
+        "year": 2019,
+        "name": "S90",
+        "price": 45000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "251bb69f-d7f0-40a4-ba99-7cf91b848ad8",
+        "brand": "Citroën",
+        "year": 2018,
+        "name": "C4 Spacetourer",
+        "price": 23000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f2975b15-fd92-4795-80cf-3309be97cbff",
+        "brand": "Renault",
+        "year": 2019,
+        "name": "Koleos",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a0c7e9c3-dbae-4143-9e28-cad6e3d1ef9f",
+        "brand": "Peugeot",
+        "year": 2018,
+        "name": "Rifter",
+        "price": 24000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b5c0090a-75a7-4199-98c0-73a0f7dfcb4c",
+        "brand": "BMW",
+        "year": 2023,
+        "name": "X4",
+        "price": 48000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "1a81ad24-36e7-49cf-bb2c-89a1520a27f4",
+        "brand": "SEAT",
+        "year": 2018,
+        "name": "Ateca",
+        "price": 26000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2f93c33b-2047-4f05-8104-0b312439c73f",
+        "brand": "FIAT",
+        "year": 2016,
+        "name": "Tipo Station Wagon",
+        "price": 20000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "bc6a66b0-bd80-48c7-b774-df7b6c3ff163",
+        "brand": "Dacia",
+        "year": 2015,
+        "name": "Logan MCV",
+        "price": 15000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c27ab8e4-37c1-4c0c-a71f-b535b23abdfa",
+        "brand": "Skoda",
+        "year": 2017,
+        "name": "Octavia",
+        "price": 22000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "fcce1860-431e-42a7-96df-9e3480673125",
+        "brand": "Volkswagen",
+        "year": 2019,
+        "name": "Golf",
+        "price": 30000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "79cb2465-cd7f-4dab-bb74-22206a7ff077",
+        "brand": "Toyota",
+        "year": 2021,
+        "name": "Yaris",
+        "price": 28000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "22bb6b1d-79a6-4fc8-a1e0-7fb25b7435ed",
+        "brand": "Honda",
+        "year": 2022,
+        "name": "Civic",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "7ad6b114-76bc-4a6a-9141-3b59b48e72d6",
+        "brand": "Volvo",
+        "year": 2020,
+        "name": "XC90",
+        "price": 50000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2f80f50c-98b2-4c91-805e-56c1a0c22b92",
+        "brand": "Citroën",
+        "year": 2019,
+        "name": "C5 Aircross",
+        "price": 30000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "adab43d3-5e19-48e1-9a38-7e5b2ed9d76a",
+        "brand": "Renault",
+        "year": 2020,
+        "name": "Clio",
+        "price": 28000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a2e2e02c-e60e-4c5d-a1fb-23494d6507aa",
+        "brand": "Peugeot",
+        "year": 2019,
+        "name": "208",
+        "price": 26000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d3141e57-9a42-4206-a6c6-6fd212e2f067",
+        "brand": "BMW",
+        "year": 2024,
+        "name": "X8",
+        "price": 70000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c89f150b-8fd4-4ab4-9c17-abb290c77fe3",
+        "brand": "SEAT",
+        "year": 2019,
+        "name": "Ibiza",
+        "price": 25000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "bf29e36c-b561-4450-aa09-b0d71e8a7e1e",
+        "brand": "FIAT",
+        "year": 2017,
+        "name": "Tipo",
+        "price": 23000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "47e3ff7b-d27c-49bb-ba6e-0e98c0284474",
+        "brand": "Dacia",
+        "year": 2016,
+        "name": "Sandero",
+        "price": 21000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b1431b3f-fec7-4df7-8148-5c4b6f0dbdb5",
+        "brand": "Skoda",
+        "year": 2018,
+        "name": "Scala",
+        "price": 24000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "46e4f253-bb6e-4d7b-8419-2d1746d83269",
+        "brand": "Volkswagen",
+        "year": 2020,
+        "name": "Touareg",
+        "price": 55000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6891cf5a-e3fc-43b4-8724-308c8b3c7f90",
+        "brand": "Toyota",
+        "year": 2022,
+        "name": "Avalon",
+        "price": 60000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d8957dcf-e6af-4874-bb21-36c951e15385",
+        "brand": "Honda",
+        "year": 2023,
+        "name": "HR-V",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "96f20a1f-0d54-4e49-8c31-e3ba493e6c5c",
+        "brand": "Volvo",
+        "year": 2021,
+        "name": "S60",
+        "price": 40000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "06389fe5-944b-4670-9268-52f51d23443c",
+        "brand": "Citroën",
+        "year": 2020,
+        "name": "C4",
+        "price": 28000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "bd80ac0f-0b8a-4c5e-b5ff-d25419b8c31e",
+        "brand": "Renault",
+        "year": 2021,
+        "name": "Megane",
+        "price": 30000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "fe300b25-69fb-4b6e-a17f-787a057cbe2e",
+        "brand": "Peugeot",
+        "year": 2022,
+        "name": "3008",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "27b9c4c5-ebf4-4d5b-b8c7-b9e0793f2895",
+        "brand": "BMW",
+        "year": 2023,
+        "name": "X5",
+        "price": 60000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "df97e7f2-85fc-48eb-9212-1d130f37bc02",
+        "brand": "SEAT",
+        "year": 2024,
+        "name": "Arona",
+        "price": 35000,
+        "kilometersDriven": 5000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6e8edf1d-7754-45c1-8df8-3d7f3f68c273",
+        "brand": "FIAT",
+        "year": 2022,
+        "name": "500X",
+        "price": 32000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3dbd4531-f214-4638-8d7a-1a290ba49ef5",
+        "brand": "Dacia",
+        "year": 2021,
+        "name": "Duster",
+        "price": 28000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c3ff0bc1-366a-4e6a-8176-7ef1475ad8f9",
+        "brand": "Skoda",
+        "year": 2020,
+        "name": "Superb",
+        "price": 35000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f8aa79fd-5a10-422a-98c6-26a18df4d8f3",
+        "brand": "Volkswagen",
+        "year": 2019,
+        "name": "Polo",
+        "price": 30000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "96d24fb7-8bb1-4131-80c7-48e2a93cfa1a",
+        "brand": "Toyota",
+        "year": 2018,
+        "name": "RAV4",
+        "price": 35000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c1b89f37-c35a-44e2-bd5e-07b7d43f4c9f",
+        "brand": "Honda",
+        "year": 2017,
+        "name": "Accord",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "95a80130-431d-4204-a281-0ad26f5f8ac7",
+        "brand": "Volvo",
+        "year": 2016,
+        "name": "V40",
+        "price": 25000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2093d6d9-0f48-40ef-b3cb-b5f432d192eb",
+        "brand": "Citroën",
+        "year": 2015,
+        "name": "C4 Picasso",
+        "price": 26000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b5464c3a-54e3-43ff-b69e-b86b6aadd9cf",
+        "brand": "Renault",
+        "year": 2014,
+        "name": "Captur",
+        "price": 18000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a9a6e9d4-f9a6-4647-a16a-00e42b3d2af2",
+        "brand": "Peugeot",
+        "year": 2013,
+        "name": "208",
+        "price": 16000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "dd20dadc-1286-4b2e-a90e-2d52e16794ec",
+        "brand": "BMW",
+        "year": 2014,
+        "name": "X3",
+        "price": 35000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e24d76ec-9ba8-47b5-ba5b-101af6e94f26",
+        "brand": "SEAT",
+        "year": 2015,
+        "name": "Ibiza",
+        "price": 17000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "cde29ae7-29dc-41a4-99b0-b8fb14d91f43",
+        "brand": "FIAT",
+        "year": 2016,
+        "name": "500",
+        "price": 19000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f536c38a-bd63-4f2c-b28a-b4e1bcf41f53",
+        "brand": "Dacia",
+        "year": 2017,
+        "name": "Duster",
+        "price": 20000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "55ad126f-0ed1-4b88-8555-b8c4f6d01db9",
+        "brand": "Skoda",
+        "year": 2018,
+        "name": "Karoq",
+        "price": 28000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "07913ad3-bd0d-4cf2-b64b-860be87b788b",
+        "brand": "Volkswagen",
+        "year": 2019,
+        "name": "Passat",
+        "price": 30000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b3257e3c-0e4b-42e8-ba19-8d18e56f9d54",
+        "brand": "Toyota",
+        "year": 2020,
+        "name": "Camry",
+        "price": 35000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d23e18ec-6d6e-4ac0-9a92-7b3ef24c9b3c",
+        "brand": "Honda",
+        "year": 2021,
+        "name": "Civic",
+        "price": 38000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "7a07a021-6ee4-45c8-b436-65e1752a6fd8",
+        "brand": "Volvo",
+        "year": 2022,
+        "name": "V60",
+        "price": 42000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d98eb539-92a2-4949-bb82-bff391493837",
+        "brand": "Citroën",
+        "year": 2023,
+        "name": "C3",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e1e1f36d-0d38-4464-b2c0-15acbf3809f8",
+        "brand": "Renault",
+        "year": 2024,
+        "name": "Captur",
+        "price": 35000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "0f41a487-d5e1-44db-9dcf-12010fc36167",
+        "brand": "Peugeot",
+        "year": 2025,
+        "name": "508",
+        "price": 45000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "42a61f9d-69c7-4aae-a62b-4c340a34c7e4",
+        "brand": "BMW",
+        "year": 2026,
+        "name": "X7",
+        "price": 80000,
+        "kilometersDriven": 5000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d2b6ee45-c345-4e4f-83f1-02a176f13897",
+        "brand": "SEAT",
+        "year": 2027,
+        "name": "Tarraco",
+        "price": 45000,
+        "kilometersDriven": 3000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f7a1c0ed-4502-4b92-921f-527872654bf5",
+        "brand": "FIAT",
+        "year": 2028,
+        "name": "Tipo",
+        "price": 25000,
+        "kilometersDriven": 1500,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a99a3346-90e1-4e1b-863f-2eaaef6a6162",
+        "brand": "Dacia",
+        "year": 2029,
+        "name": "Logan",
+        "price": 18000,
+        "kilometersDriven": 500,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "62c04cfc-d5ed-4779-88a7-5b31970db19d",
+        "brand": "Skoda",
+        "year": 2030,
+        "name": "Scala",
+        "price": 22000,
+        "kilometersDriven": 300,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "bd1e5f17-8c18-4370-b8ef-90c80a27b135",
+        "brand": "Toyota",
+        "year": 2011,
+        "name": "Corolla",
+        "price": 15000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f5d7c746-8052-4c6b-b12c-5e0b502c6e3f",
+        "brand": "Honda",
+        "year": 2010,
+        "name": "Accord",
+        "price": 12000,
+        "kilometersDriven": 90000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b7a8055f-90e4-49fd-a015-235b50f85e4a",
+        "brand": "Ford",
+        "year": 2012,
+        "name": "Fusion",
+        "price": 18000,
+        "kilometersDriven": 75000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "5fd901cb-458a-4e97-b20f-2026f38ddc46",
+        "brand": "Chevrolet",
+        "year": 2013,
+        "name": "Malibu",
+        "price": 16000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "92fd79f8-89f0-44b2-a2a3-6fc75b85e2f7",
+        "brand": "Jeep",
+        "year": 2014,
+        "name": "Cherokee",
+        "price": 20000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3b54b0ed-5f2f-4b50-8553-5c18adbd7a17",
+        "brand": "Toyota",
+        "year": 2015,
+        "name": "Rav4",
+        "price": 22000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "8c26be0e-02ad-4f8a-b871-5f89fc66e96e",
+        "brand": "Honda",
+        "year": 2016,
+        "name": "Pilot",
+        "price": 28000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "04aa2eae-1558-49db-b880-7c4358e22b5e",
+        "brand": "Ford",
+        "year": 2017,
+        "name": "Escape",
+        "price": 30000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b418d2ee-00ff-4cfc-a95e-0d9c96e3d812",
+        "brand": "Chevrolet",
+        "year": 2018,
+        "name": "Cruze",
+        "price": 25000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "28ef7675-5e08-41c4-89a4-ff85a21d62f3",
+        "brand": "Jeep",
+        "year": 2019,
+        "name": "Grand Cherokee",
+        "price": 35000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "91b6ff18-ae07-4059-b753-d52b3f2931d3",
+        "brand": "Toyota",
+        "year": 2020,
+        "name": "Highlander",
+        "price": 40000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c352254f-055b-4f4d-854a-9205ab0f694e",
+        "brand": "Honda",
+        "year": 2021,
+        "name": "Civic",
+        "price": 38000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "71b9f48f-9da2-47a3-a340-992b520d29f1",
+        "brand": "Ford",
+        "year": 2022,
+        "name": "Mustang",
+        "price": 45000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c4b83db9-fd17-4a60-8f81-c491cb9b1967",
+        "brand": "Chevrolet",
+        "year": 2023,
+        "name": "Impala",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6b2a9f7d-776b-4b6c-a571-2dc52a4e5f47",
+        "brand": "Jeep",
+        "year": 2024,
+        "name": "Renegade",
+        "price": 30000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "1e74b74b-64d9-4e2d-b7d9-8a90d7d5f726",
+        "brand": "Toyota",
+        "year": 2025,
+        "name": "Tacoma",
+        "price": 35000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "daaa1f69-2895-4999-8d50-06782cc5b1db",
+        "brand": "Honda",
+        "year": 2026,
+        "name": "Accord",
+        "price": 38000,
+        "kilometersDriven": 5000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9b3e2e71-1d20-4df3-97d8-ba405a314c21",
+        "brand": "Ford",
+        "year": 2027,
+        "name": "Explorer",
+        "price": 42000,
+        "kilometersDriven": 3000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e4d5f674-95ad-45b9-b708-eb24cf98d5f7",
+        "brand": "Chevrolet",
+        "year": 2028,
+        "name": "Equinox",
+        "price": 38000,
+        "kilometersDriven": 2000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9f4c7cd4-662b-4a43-ae2c-7bf3e5b01481",
+        "brand": "Jeep",
+        "year": 2029,
+        "name": "Compass",
+        "price": 30000,
+        "kilometersDriven": 1500,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2f5fb9da-7b26-4a7a-a83a-0eb3e68ff2e7",
+        "brand": "Toyota",
+        "year": 2030,
+        "name": "4Runner",
+        "price": 35000,
+        "kilometersDriven": 1000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2f5fb9da-7b26-4a7a-a83a-0eb3e68ff2e7",
+        "brand": "Toyota",
+        "year": 2030,
+        "name": "4Runner",
+        "price": 35000,
+        "kilometersDriven": 1000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "be3b041e-e476-4a05-9a86-1d33f2341c13",
+        "brand": "Toyota",
+        "year": 2030,
+        "name": "4Runner",
+        "price": 35000,
+        "kilometersDriven": 1000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "cd45cf0e-92d7-46c7-9a10-51b56a4f6e0e",
+        "brand": "Toyota",
+        "year": 2030,
+        "name": "4Runner",
+        "price": 35000,
+        "kilometersDriven": 1000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3d4a8536-93a3-40a8-8e52-7b2d52e16794",
+        "brand": "Ford",
+        "year": 2019,
+        "name": "Focus",
+        "price": 25000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "94822e24-76ec-4f63-89b5-d1f6b70af6e2",
+        "brand": "Chevrolet",
+        "year": 2018,
+        "name": "Camaro",
+        "price": 35000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "7d482de0-fb20-4b78-af8b-33c8fb14d91f",
+        "brand": "Jeep",
+        "year": 2017,
+        "name": "Wrangler",
+        "price": 40000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f536c38a-bd63-4f2c-b28a-b4e1bcf41f53",
+        "brand": "Dacia",
+        "year": 2017,
+        "name": "Duster",
+        "price": 20000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "55ad126f-0ed1-4b88-8555-b8c4f6d01db9",
+        "brand": "Skoda",
+        "year": 2018,
+        "name": "Karoq",
+        "price": 28000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "07913ad3-bd0d-4cf2-b64b-860be87b788b",
+        "brand": "Volkswagen",
+        "year": 2019,
+        "name": "Passat",
+        "price": 30000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b3257e3c-0e4b-42e8-ba19-8d18e56f9d54",
+        "brand": "Toyota",
+        "year": 2020,
+        "name": "Camry",
+        "price": 35000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d23e18ec-6d6e-4ac0-9a92-7b3ef24c9b3c",
+        "brand": "Honda",
+        "year": 2021,
+        "name": "Civic",
+        "price": 38000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "7a07a021-6ee4-45c8-b436-65e1752a6fd8",
+        "brand": "Volvo",
+        "year": 2022,
+        "name": "V60",
+        "price": 42000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d98eb539-92a2-4949-bb82-bff391493837",
+        "brand": "Citroën",
+        "year": 2023,
+        "name": "C3",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e1e1f36d-0d38-4464-b2c0-15acbf3809f8",
+        "brand": "Renault",
+        "year": 2024,
+        "name": "Captur",
+        "price": 35000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "0f41a487-d5e1-44db-9dcf-12010fc36167",
+        "brand": "Peugeot",
+        "year": 2025,
+        "name": "508",
+        "price": 45000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "42a61f9d-69c7-4aae-a62b-4c340a34c7e4",
+        "brand": "BMW",
+        "year": 2026,
+        "name": "X7",
+        "price": 80000,
+        "kilometersDriven": 5000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d2b6ee45-c345-4e4f-83f1-02a176f13897",
+        "brand": "SEAT",
+        "year": 2027,
+        "name": "Tarraco",
+        "price": 45000,
+        "kilometersDriven": 3000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f7a1c0ed-4502-4b92-921f-527872654bf5",
+        "brand": "FIAT",
+        "year": 2028,
+        "name": "Tipo",
+        "price": 25000,
+        "kilometersDriven": 1500,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a99a3346-90e1-4e1b-863f-2eaaef6a6162",
+        "brand": "Dacia",
+        "year": 2029,
+        "name": "Logan",
+        "price": 18000,
+        "kilometersDriven": 500,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "62c04cfc-d5ed-4779-88a7-5b31970db19d",
+        "brand": "Skoda",
+        "year": 2030,
+        "name": "Scala",
+        "price": 22000,
+        "kilometersDriven": 300,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "af91777b-0782-4d88-a0b8-06fd8f228e3f",
+        "brand": "Toyota",
+        "year": 2011,
+        "name": "Yaris",
+        "price": 12000,
+        "kilometersDriven": 90000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "0aeafbc3-2aeb-47f2-94f2-2c3d2e8d2306",
+        "brand": "Honda",
+        "year": 2010,
+        "name": "Fit",
+        "price": 10000,
+        "kilometersDriven": 95000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "949d9e8e-7000-4893-82ab-10785f2fdab0",
+        "brand": "Ford",
+        "year": 2012,
+        "name": "Escape",
+        "price": 16000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f6f0fcdb-9d51-4d18-8f62-8a6bf1d2c26c",
+        "brand": "Chevrolet",
+        "year": 2013,
+        "name": "Cruze",
+        "price": 14000,
+        "kilometersDriven": 75000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "00f3d003-7f63-42eb-bb8b-186c694de1cb",
+        "brand": "Jeep",
+        "year": 2014,
+        "name": "Grand Cherokee",
+        "price": 20000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "eddd2556-7c58-4c56-9252-14590bf0e3b7",
+        "brand": "Toyota",
+        "year": 2015,
+        "name": "Corolla",
+        "price": 22000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b956c107-e49c-4d1e-8f9a-070b595fbf12",
+        "brand": "Honda",
+        "year": 2016,
+        "name": "Accord",
+        "price": 25000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "36ed11fd-3d8f-495b-b4e9-d7e7b03b009a",
+        "brand": "Ford",
+        "year": 2017,
+        "name": "Fusion",
+        "price": 27000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a2d7e9b0-ee18-47c7-9a9d-1a4ef5b640e8",
+        "brand": "Chevrolet",
+        "year": 2018,
+        "name": "Malibu",
+        "price": 28000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c2d0c764-7b4c-41ab-9019-ae97826a33d4",
+        "brand": "Jeep",
+        "year": 2019,
+        "name": "Wrangler",
+        "price": 35000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d6b80c4f-1ef4-41d9-a8aa-b8832cb18e94",
+        "brand": "Toyota",
+        "year": 2020,
+        "name": "Highlander",
+        "price": 40000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "cb1cfb7e-c4f3-4b9f-b52a-10e8d3c00d47",
+        "brand": "Honda",
+        "year": 2021,
+        "name": "Pilot",
+        "price": 38000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "1eac39c9-f8b2-47e2-9619-cc7f90f4f7f0",
+        "brand": "Ford",
+        "year": 2022,
+        "name": "Escape",
+        "price": 42000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "09f4fa8e-6e1b-405a-b7d4-c1c61b01714c",
+        "brand": "Chevrolet",
+        "year": 2023,
+        "name": "Traverse",
+        "price": 32000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "82ee7f49-8960-445b-9435-af26a7d5c7a4",
+        "brand": "Jeep",
+        "year": 2024,
+        "name": "Cherokee",
+        "price": 30000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "00af0006-3f3b-4134-a2ad-0a34f671d5fd",
+        "brand": "Toyota",
+        "year": 2025,
+        "name": "Tundra",
+        "price": 35000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d63ff65b-1747-4af0-9a2f-74e3f2dfc460",
+        "brand": "Honda",
+        "year": 2026,
+        "name": "Civic",
+        "price": 38000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "1d2e98ac-95f1-4635-9242-3ef4c85ba6c8",
+        "brand": "Ford",
+        "year": 2027,
+        "name": "F-150",
+        "price": 45000,
+        "kilometersDriven": 5000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d9d4a46d-ae2b-4fd4-ae94-ff381ab94f2c",
+        "brand": "Chevrolet",
+        "year": 2028,
+        "name": "Colorado",
+        "price": 38000,
+        "kilometersDriven": 3000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "58486bae-bfd2-4a2e-87cf-5e6e132f2a64",
+        "brand": "Jeep",
+        "year": 2029,
+        "name": "Wrangler",
+        "price": 30000,
+        "kilometersDriven": 2000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b5a995d9-1d5d-44d0-8510-5e054946b0d7",
+        "brand": "Toyota",
+        "year": 2030,
+        "name": "Tacoma",
+        "price": 35000,
+        "kilometersDriven": 1000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e1d52d23-7544-4b6b-83b4-f9c8a45aa9df",
+        "brand": "Honda",
+        "year": 2011,
+        "name": "CR-V",
+        "price": 18000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b0db1782-cd47-4bb8-b7de-4b84ed9b8b4e",
+        "brand": "BMW",
+        "year": 2010,
+        "name": "3 Series",
+        "price": 20000,
+        "kilometersDriven": 85000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "025a6c22-2746-446b-8e5a-65d540ef0a17",
+        "brand": "SEAT",
+        "year": 2012,
+        "name": "Ibiza",
+        "price": 12000,
+        "kilometersDriven": 90000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "14e543ff-1046-4c92-bf52-2c056f8440c0",
+        "brand": "FIAT",
+        "year": 2013,
+        "name": "500",
+        "price": 10000,
+        "kilometersDriven": 95000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "eda867e0-f19d-4942-b9c2-4d81c726e53b",
+        "brand": "Dacia",
+        "year": 2014,
+        "name": "Sandero",
+        "price": 8000,
+        "kilometersDriven": 100000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "5f6283cd-6f2d-4654-ba38-f5c03b418fea",
+        "brand": "Skoda",
+        "year": 2015,
+        "name": "Octavia",
+        "price": 15000,
+        "kilometersDriven": 85000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e7fcb1cc-7aa7-4a2e-bc53-5df2142e3e3d",
+        "brand": "Volkswagen",
+        "year": 2016,
+        "name": "Golf",
+        "price": 17000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d7487f04-0aef-4f4f-8f0d-c727e64ac480",
+        "brand": "Toyota",
+        "year": 2017,
+        "name": "Prius",
+        "price": 20000,
+        "kilometersDriven": 75000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "16de8dd3-0d49-4fe6-afd0-f6d80bf40622",
+        "brand": "Renault",
+        "year": 2018,
+        "name": "Clio",
+        "price": 18000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "bdd882ae-b8fb-4487-a91e-84bb3a30f4a6",
+        "brand": "Peugeot",
+        "year": 2019,
+        "name": "308",
+        "price": 19000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "a5b7bc7f-cb46-488d-b113-442f864348bf",
+        "brand": "BMW",
+        "year": 2020,
+        "name": "5 Series",
+        "price": 30000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "fbdd2a0a-5b99-4b0b-b670-89224b6a1606",
+        "brand": "SEAT",
+        "year": 2021,
+        "name": "Leon",
+        "price": 22000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6d88f0b2-1b44-456a-bb94-c7b3a1259a5b",
+        "brand": "FIAT",
+        "year": 2022,
+        "name": "Panda",
+        "price": 13000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b2c6fc12-ee47-4e39-8f89-96b4b2cb0ab5",
+        "brand": "Dacia",
+        "year": 2023,
+        "name": "Dokker",
+        "price": 12000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f694e84e-2a17-4217-b86a-e8a9a1a828d1",
+        "brand": "Skoda",
+        "year": 2024,
+        "name": "Superb",
+        "price": 25000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "8b47e891-d7de-4a04-802f-8656509714b7",
+        "brand": "Volkswagen",
+        "year": 2025,
+        "name": "Passat",
+        "price": 28000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "5d7506d1-c6b1-4c17-91eb-384c70e87695",
+        "brand": "Toyota",
+        "year": 2026,
+        "name": "Yaris",
+        "price": 15000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "31bb73f7-e1b3-44a5-9ec4-fd7fb7dbfe47",
+        "brand": "Renault",
+        "year": 2027,
+        "name": "Koleos",
+        "price": 35000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "0ef972d7-8b97-4b10-8994-bda4167dce5e",
+        "brand": "Peugeot",
+        "year": 2028,
+        "name": "3008",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "16bebf99-58fc-4fd9-ae85-56b1bb6a95bb",
+        "brand": "BMW",
+        "year": 2029,
+        "name": "X5",
+        "price": 40000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "ad1e7e3f-c34c-4f08-9169-132f248ff0af",
+        "brand": "SEAT",
+        "year": 2030,
+        "name": "Arona",
+        "price": 22000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d4b3d3a9-54fd-47d8-9343-0522a28b19d0",
+        "brand": "FIAT",
+        "year": 2005,
+        "name": "Punto",
+        "price": 5000,
+        "kilometersDriven": 120000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "741d9290-742a-459a-9b82-0871e8e0787e",
+        "brand": "Dacia",
+        "year": 2006,
+        "name": "Logan",
+        "price": 6000,
+        "kilometersDriven": 115000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "69c2f9cf-5ae8-42c7-bd17-5c8dfe9929b2",
+        "brand": "Skoda",
+        "year": 2007,
+        "name": "Fabia",
+        "price": 7000,
+        "kilometersDriven": 110000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "749fb4fb-d58c-4cb5-ba38-8a63f8c8d1ed",
+        "brand": "Volkswagen",
+        "year": 2008,
+        "name": "Jetta",
+        "price": 8000,
+        "kilometersDriven": 105000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "b64ab22b-15a5-4d89-9b43-5bde7a9cf88b",
+        "brand": "Toyota",
+        "year": 2009,
+        "name": "Rav4",
+        "price": 10000,
+        "kilometersDriven": 100000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "09d8cc9b-cf5e-458e-8590-5a2bbfa36ae3",
+        "brand": "Renault",
+        "year": 2010,
+        "name": "Megane",
+        "price": 11000,
+        "kilometersDriven": 95000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2c30b289-1dc7-4c24-8a56-04047a6dc9f8",
+        "brand": "Peugeot",
+        "year": 2011,
+        "name": "207",
+        "price": 9000,
+        "kilometersDriven": 90000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c31ebd2e-b28e-42ac-9e8b-05e44e9f69cb",
+        "brand": "BMW",
+        "year": 2012,
+        "name": "1 Series",
+        "price": 14000,
+        "kilometersDriven": 85000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f02ac67d-5b65-4e42-8ed2-0d3b546e2d77",
+        "brand": "SEAT",
+        "year": 2013,
+        "name": "Alhambra",
+        "price": 16000,
+        "kilometersDriven": 80000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "d4481d32-3450-4e3c-9c44-9c843e3b97e7",
+        "brand": "FIAT",
+        "year": 2014,
+        "name": "Panda",
+        "price": 13000,
+        "kilometersDriven": 75000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "17466c2f-bac3-453b-bb1f-d1e3b5bf53f9",
+        "brand": "Dacia",
+        "year": 2015,
+        "name": "Duster",
+        "price": 15000,
+        "kilometersDriven": 70000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "ee31e792-23bf-4464-b5e5-28d6a78e529b",
+        "brand": "Skoda",
+        "year": 2016,
+        "name": "Yeti",
+        "price": 17000,
+        "kilometersDriven": 65000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "914ab479-e0e0-4b97-a25f-c65bfbcbe5cb",
+        "brand": "Volkswagen",
+        "year": 2017,
+        "name": "Tiguan",
+        "price": 20000,
+        "kilometersDriven": 60000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "6f6b6aa6-13b3-41b9-af82-7d7a1861800b",
+        "brand": "Toyota",
+        "year": 2018,
+        "name": "Camry",
+        "price": 22000,
+        "kilometersDriven": 55000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e246e58d-c7ad-4e4f-bfce-b7f1c1b666e1",
+        "brand": "Renault",
+        "year": 2019,
+        "name": "Twingo",
+        "price": 18000,
+        "kilometersDriven": 50000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "178b49b0-4149-4897-ae15-fefc754b15de",
+        "brand": "Peugeot",
+        "year": 2020,
+        "name": "208",
+        "price": 19000,
+        "kilometersDriven": 45000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "cd484f21-d51a-4664-8858-ef4a7e26d5c4",
+        "brand": "BMW",
+        "year": 2021,
+        "name": "X1",
+        "price": 25000,
+        "kilometersDriven": 40000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "30c94306-0ec2-4fa9-b47f-5f97f1e44712",
+        "brand": "SEAT",
+        "year": 2022,
+        "name": "Ateca",
+        "price": 28000,
+        "kilometersDriven": 35000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "03f3eeed-632e-4631-bc71-fba0fd484d99",
+        "brand": "FIAT",
+        "year": 2023,
+        "name": "Tipo",
+        "price": 23000,
+        "kilometersDriven": 30000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "22965b3b-d51f-4af3-bbd2-d3a74d06c8ee",
+        "brand": "Dacia",
+        "year": 2024,
+        "name": "Sandero",
+        "price": 15000,
+        "kilometersDriven": 25000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "e7a85f90-72f1-4bc8-9d22-cf17d3482178",
+        "brand": "Skoda",
+        "year": 2025,
+        "name": "Kodiaq",
+        "price": 32000,
+        "kilometersDriven": 20000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "c83f36f2-b9db-4743-88ee-dde2b81ef120",
+        "brand": "Volkswagen",
+        "year": 2026,
+        "name": "Arteon",
+        "price": 35000,
+        "kilometersDriven": 15000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "9e420504-194f-4b44-bcd2-79eb7d276fe3",
+        "brand": "Toyota",
+        "year": 2027,
+        "name": "Corolla",
+        "price": 30000,
+        "kilometersDriven": 10000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "f732d00b-7e64-4049-b135-b2f331b1f168",
+        "brand": "Renault",
+        "year": 2028,
+        "name": "Talisman",
+        "price": 28000,
+        "kilometersDriven": 5000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "82874633-cb13-4a53-88f4-f3093d927c44",
+        "brand": "Peugeot",
+        "year": 2029,
+        "name": "508",
+        "price": 32000,
+        "kilometersDriven": 3000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "2f51cc0e-6d13-4ec2-99e8-40a5f02e55b0",
+        "brand": "BMW",
+        "year": 2030,
+        "name": "X3",
+        "price": 35000,
+        "kilometersDriven": 1500,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+    },
+    {
+        "id": "3d36ee4e-50c5-4a43-9879-d3bf788b4f2b",
+        "brand": "SEAT",
+        "year": 2024,
+        "name": "Ibiza",
+        "price": 18000,
+        "kilometersDriven": 5000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+      },
+      {
+        "id": "bdfc3dd7-59a3-4201-8566-59b72e062c61",
+        "brand": "FIAT",
+        "year": 2025,
+        "name": "500X",
+        "price": 22000,
+        "kilometersDriven": 3000,
+        "imageUrl": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/04/AI-generated-car-design-scaled.jpeg"
+      }
+]
