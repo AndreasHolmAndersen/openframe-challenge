@@ -6,7 +6,7 @@ import Breadcrumb from "../../components/Breadcrumb";
 import { AppRoutes } from "../../router/AppRouter";
 import LoadingSpinner from "../../components/LoadingSpinner";
 import ErrorView from "../../components/ErrorView";
-import { ArrowLeftCircleIcon, ArrowLeftIcon } from "@heroicons/react/20/solid";
+import { ArrowLeftIcon } from "@heroicons/react/20/solid";
 
 const ListingView: FC = () => {
   //Hooks
